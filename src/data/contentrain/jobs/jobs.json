@@ -1,7 +1,12 @@
 [
   {
     "ID": "82f607a6-516e-41a4-8b11-fda49b660c1b",
-    "logo": [],
+    "logo": {
+      "ID": "7711fab9-66ae-4d77-ba28-1cd549c20e17",
+      "src": "avatar.png",
+      "alt": "avatar",
+      "createdAt": 1666252690692
+    },
     "jobTitle": "Sr. Frontend Developer",
     "company": "Deneme",
     "location": "Ankara, Turkey",
