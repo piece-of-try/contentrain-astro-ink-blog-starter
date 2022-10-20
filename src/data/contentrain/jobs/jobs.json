@@ -13,7 +13,22 @@
     "salary": "150,000 - 240,000",
     "description": "Contentrain is a Lorem ipsum dolor sit amet, consectetur adipiscing elit. At vitae quam lorem rhoncus ac. Pulvinar vel, amet, rhoncus amet risus pretium.",
     "releaseTime": "2022-10-20",
-    "detail": [],
+    "detail": {
+      "ID": "fa5927ae-3fe2-4def-8baa-a2d2b90b6d72",
+      "size": "1 - 11",
+      "industry": "Software",
+      "website": "https://contentrain.io",
+      "jobLocation": "Van",
+      "level": "Senior",
+      "jobType": "Full TIme",
+      "workType": "Full Remote",
+      "contract": "Permanant",
+      "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At vitae quam lorem rhoncus ac. Pulvinar vel, amet, rhoncus amet risus pretium consectetur at luctus. Magna eros enim massa quisque. Aliquam massa neque aliquet metus commodo elit. Hac lectus mauris suspendisse porttitor dictum enim. Vel eget eu quis sit. Adipiscing sed eu nulla fusce ultrices dui nisl. Ipsum cras turpis sagittis, ut. Scelerisque eu, massa facilisi orci nisl praesent. Adipiscing duis blandit pretium montes, gravida sed id neque magna. Augue semper blandit aliquam quis mauris gravida tortor nisi. Adipiscing aliquam turpis in quisque fusce lectus diam gravida. Commodo id sit at donec erat aliquet elit.",
+      "jobDescription": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. At vitae quam lorem rhoncus ac. Pulvinar vel, amet, rhoncus amet risus pretium consectetur at luctus. Magna eros enim massa quisque. </p>",
+      "offer": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. At vitae quam lorem rhoncus ac. Pulvinar vel, amet, rhoncus amet risus pretium consectetur at luctus. Magna eros enim massa quisque. </p>",
+      "expect": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. At vitae quam lorem rhoncus ac. Pulvinar vel, amet, rhoncus amet risus pretium consectetur at luctus. Magna eros enim massa quisque. </p>",
+      "createdAt": 1666271028579
+    },
     "createdAt": 1666252624614
   }
 ]
